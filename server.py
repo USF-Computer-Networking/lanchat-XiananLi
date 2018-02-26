@@ -1,6 +1,6 @@
 # This file is simply help to access the server socket created
-#   at the specified IP address and port. After that, it will check
-#   whether the input comes from the server or from the client side,
+# at the specified IP address and port. After that, it will check
+# whether the input comes from the server or from the client side,
 # and help to redirect the ouput
 
 import socket
