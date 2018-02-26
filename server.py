@@ -34,3 +34,7 @@ while True:
             sys.stdout.write(message)
             sys.stdout.flush()
 server.close()
+
+
+# learned simple chat function through link:
+# https://www.geeksforgeeks.org/simple-chat-room-using-python/
