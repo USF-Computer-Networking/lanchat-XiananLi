@@ -60,3 +60,8 @@ while True:
 
 conn.close()
 server.close()
+
+
+# learned simple chat function through link:
+# https://www.geeksforgeeks.org/simple-chat-room-using-python/
+
