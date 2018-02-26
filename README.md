@@ -1,5 +1,8 @@
 # lanchat-XiananLi
 
+This program contains two python files: lanchat.py and server.py. The server can be set up 
+on any computer to be a server node, and using that computer's private IP address as the server
+IP address. The specific function and usage are indicate in the beginning of each file.
 
  - discovers other computers on the same LAN
     - provides a user friendly display of information about each discovered peer
